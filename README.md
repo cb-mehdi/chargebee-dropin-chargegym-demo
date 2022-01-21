@@ -8,3 +8,4 @@ To run the demo on Macbook:
 2) Run a PHP server by doing php -S localhost:8080
 3) Keep the terminal open while you need the demo
 4) Navigate to http://localhost:8080
+
