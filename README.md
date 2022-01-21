@@ -1,6 +1,8 @@
 # chargebee-dropin-chargegym-demo
 Demo of Chargebee dropin solution
 
+![Screenshot](website_screenshot.png)
+
 To use please download the whole content of demo folder.
 
 To run the demo on Macbook:
